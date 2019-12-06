@@ -1,0 +1,78 @@
+.header-img {
+    width: 100%;
+}
+
+.center-area {
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 80px;
+    background-color: #e1e2e6;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border: 5px groove #2927b0;
+    font-size: 1.2em;
+}
+
+.center-area h2 {
+    font-size: 2em;
+    font-family: 'Arvo', serif;
+    margin-bottom: 30px;
+}
+
+.comic-strip {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comic-strip img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 60%;
+}
+
+.comic-strip .l-arrow {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 100px;
+    width: 10%;
+}
+
+.comic-strip .r-arrow {
+    margin-left: 20%;
+    margin-right: auto;
+    margin-bottom: 100px;
+    width: 10%;
+}
+
+.comment {
+  flex: 5;
+}
+
+footer {
+    color: #007bff;
+    text-align: center;
+    padding-top: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a:link {
+    color: black;
+}
+
+footer a:hover {
+    color: black;
+}
+
+footer a:active {
+    color: gray;
+}
+
+footer a:visited {
+    color: black;
+}
